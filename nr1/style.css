@@ -13,5 +13,18 @@ link{
     font-size: larger;
 }
 #ram{
-    width: 1600px;
+    width: 1200px;
+}
+.bild{
+    float: right;
+}
+#fakta{
+
+}
+#mat_räka{
+    float: right;
+}
+#fakta_ruta{
+    float: right;
+    width: 500px;
 }
