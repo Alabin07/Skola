@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+p{
+    font-size: large;
+}
+#ram{
+    margin: 1% 10% 0% 10%;
+}
+#simmning{
+    padding: 10%;
+}
+
+#phelps{
+    float: left;
+}
+#faktaruta{
+    float: right;
+    
+}
