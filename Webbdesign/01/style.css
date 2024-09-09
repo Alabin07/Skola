@@ -4,8 +4,9 @@ body{
 p{
     font-size: large;
 }
+
 #ram{
-    margin: 1% 10% 0% 10%;
+    margin: 1% 5% 0% 5%;
 }
 #simmning{
     padding: 10%;
@@ -13,8 +14,29 @@ p{
 
 #phelps{
     float: left;
+    margin: 0% 2% 2% 0;
 }
 #faktaruta{
-    float: right;
-    
+    float: right;    
+}
+
+table{
+    float: left;
+    background-color: darkgrey;
+    border-collapse: collapse;
+    margin: 40px auto;
+    border: 1px solid black;
+}
+td, th{
+    padding: 8px;
+}
+td{
+    border: 1px solid black;
+}
+th{
+    text-align: left;
+    background-color: lightgray;
+}
+tr:nth-child(even){
+    background-color: lightgray;
 }
